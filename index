@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>甜品和豆花餐车</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>欢迎来到甜品和豆花餐车</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">主页</a></li>
+                <li><a href="menu.html">菜单</a></li>
+                <li><a href="about.html">关于我们</a></li>
+                <li><a href="contact.html">联系我们</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>清凉解暑的甜品和豆花</h2>
+            <p>在炎热的马来西亚，为您提供最清凉、最美味的甜品和豆花。欢迎光临我们的餐车！</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 甜品和豆花餐车. 保留所有权利.</p>
+    </footer>
+</body>
+</html>
